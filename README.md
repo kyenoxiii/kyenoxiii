@@ -9,6 +9,5 @@
 
 📍 Based in Cavite, Philippines  
 🎓 Incoming 4th Year BSIT Student at Cavite State University – Trece Martires City Campus  
-🏅 Dean’s Lister (Freshman & Sophomore Year)  
-💼 Former Encoder at JAE Philippines (2020–2022)  
+🏅 Dean’s Lister (Freshman & Sophomore Year)    
 🛠️ Skilled in PHP, Python, Java, HTML, MySQL
